@@ -52,7 +52,7 @@ Detecting fraud in bank account transactions requires a keen eye for unusual pat
 ## Dataset
 > [Bank Account Fraud Dataset Suite (NeurIPS 2022)](https://www.kaggle.com/datasets/sgpjesus/bank-account-fraud-dataset-neurips-2022)  
 
-## Reference
-> [5% of all digital transactions originating from Canada were suspected to be fraudulent.](https://newsroom.transunion.ca/suspected-digital-fraud-originating-from-canada-soars-in-2023-canada-with-third-highest-increase-in-fraud-rates-among-19-countries-analyzed-by-transunion/)  
-> [An estimated $800 billion to $2 trillion, or 2 to 5% of the global GDP, is laundered through the financial system each year.](https://linkurious.com/anti-money-laundering/)  
-> [Transaction monitoring in anti-money laundering (AML) stands as a frontline defense.](https://linkurious.com/transaction-monitoring-in-aml/)  
+## References
+- [5% of all digital transactions originating from Canada were suspected to be fraudulent.](https://newsroom.transunion.ca/suspected-digital-fraud-originating-from-canada-soars-in-2023-canada-with-third-highest-increase-in-fraud-rates-among-19-countries-analyzed-by-transunion/)  
+- [An estimated $800 billion to $2 trillion, or 2 to 5% of the global GDP, is laundered through the financial system each year.](https://linkurious.com/anti-money-laundering/)  
+- [Transaction monitoring in anti-money laundering (AML) stands as a frontline defense.](https://linkurious.com/transaction-monitoring-in-aml/)  
