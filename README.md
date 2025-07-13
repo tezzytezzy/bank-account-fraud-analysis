@@ -40,14 +40,7 @@ Detecting fraud in bank account transactions requires a keen eye for unusual pat
    
 
 ## Objective
-
-
-
-
-## Installation
-```
-```
-
+Explore and evaluate binary classification models.
 
 ## Dataset
 > [Bank Account Fraud Dataset Suite (NeurIPS 2022)](https://www.kaggle.com/datasets/sgpjesus/bank-account-fraud-dataset-neurips-2022)
